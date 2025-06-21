@@ -1,0 +1,67 @@
+#hero-section {
+    padding-top: 18vh;
+    height: auto;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#hero-section h1 {
+    font-size: 3rem;
+    font-weight: 300;
+}
+#hero-section h1 span {
+    font-family: Imperial;
+    font-size: 6rem;
+    color: #BF7A84;
+}
+#hero-section p {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+#aboutUs {
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.aboutUs-item {
+    height: 70vh;
+    width: 70vw;
+    margin: auto;
+    border: 0.5px solid #BF7A84;
+    border-radius: 6vh;
+    margin: 12vh auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 3vh;
+}
+.aboutUs-item .text {
+    height: 100%;
+    width: 50%;
+    padding: 5%;
+    text-align: center;
+}
+.aboutUs-item .text h1 {
+    font-weight: 300;
+    font-size: 5rem;
+    color: #7C2A5E;
+    font-family: Imperial;
+    margin-bottom: 2vh;
+}
+.aboutUs-item .text p {
+    font-weight: 300;
+}
+
+.aboutUs-item .image {
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    border-radius: 3vh;
+}
+.aboutUs-item .image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
