@@ -11,6 +11,13 @@
 </head>
 <body>
 
+  <div id="cookie-popup">
+    <p>Diese Website verwendet Cookies, um Ihnen das beste Erlebnis zu bieten.</p>
+    <button onclick="acceptCookies()">OK, verstanden</button>
+    <a href="datenschutz.html">Datenschutz</a>
+  </div>
+
+
     <nav>
     <div id="nav-container">
 
@@ -53,7 +60,7 @@
             <div id="aboutMe-text">
                 <h1>Über <span>mich</span></h1>
                 <p>Schon von Kindheit an, war es mein Wunsch mit meinen Händen sanft zu heilen! Über die Tiere habe ich zu den Menschen gefunden. Nun darf ich schon über 10 Jahre Menschen und Tiere begleiten und sie durch Blockaden Lösung in ein Leben im Fluß bringen!</p>
-                <p>Simone Stütz</p>
+                <p>Dr. med.vet. Simone Stütz</p>
                 <a href="/aboutUs.html">Erfahren Sie mehr</a>
             </div>
 
@@ -75,7 +82,7 @@
   <div class="grid-container">
 
     <div class="item" data-id="1">
-      <h3>Cranio-Sacrale Körperarbeit</h3>
+      <h3>Cranio-Sacrale Körperarbeit Mensch</h3>
       <hr>
       <p>ab 40€</p>
     </div>
@@ -86,22 +93,21 @@
       <p>ab 50€</p>
     </div>
     
-    <div class="item" data-id="4">
+    <div class="item" data-id="3">
       <h3>Ganzheitliche Tier-Sprechstunde</h3>
       <hr>
       <p>ab 15€</p>
     </div>
 
-    <div class="item" data-id="5">
+    <div class="item" data-id="4">
       <h3>Esel Erlebniszeit</h3>
       <hr>
       <p>ab 15€</p>
     </div>
 
-    <!-- Detailbox kommt hierhin – zwischen Zeile 1 und 2 -->
     <div id="detail-box" class="detail-box"></div>
 
-    <div class="item" data-id="3">
+    <div class="item" data-id="5">
       <h3>Kräuter, Öle & Hausmittel</h3>
       <hr>
       <p>ab 15€</p>
@@ -116,11 +122,20 @@
     <div class="item" data-id="7">
       <h3>Webinar</h3>
       <hr>
-      <p>ab 25€</p>
+      <p>Wissen - kompakt und praxisnah</p>
     </div>
 
-    <div class="item" data-id="8">
-      <h3>Wissen - kompakt und praxisnah</h3>
+    <div class="item" id="newsletter" data-id="8">
+      <h3>Newsletter</h3>
+      <hr>
+      <h5>Bleibe auf dem Laufenden</h5>
+  
+      <form class="newsletter-form" onsubmit="handleNewsletterSubmit(event)">
+        <input type="email" name="email" placeholder="Ihre E-Mail-Adresse" required>
+        <button type="submit">Anmelden</button>
+      </form>
+</div>
+
     </div>
 
   </div>
@@ -129,11 +144,7 @@
 
 <section id="news-section">
 
-
-
 </section>
-
-
 
 
 
@@ -173,6 +184,19 @@
   </div>
 </footer>
 
+
+  <script>
+  function acceptCookies() {
+    document.getElementById("cookie-popup").style.display = "none";
+    localStorage.setItem("cookiesAccepted", "true");
+  }
+
+  window.onload = function() {
+    if (localStorage.getItem("cookiesAccepted") === "true") {
+      document.getElementById("cookie-popup").style.display = "none";
+    }
+  }
+  </script>
 
   <script src="script.js"></script>
 

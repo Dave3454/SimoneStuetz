@@ -1,65 +1,623 @@
 [
   {
     "id": 1,
-    "title": "Cranio-Sacrale Körperarbeit",
-    "text1": "Ich arbeite als Omnipathin®, welches eine aus der Cranio Sacralen Osteopathie entwickelt wurde und es ist es eine sanfte, energetisch-ganzheitliche Anwendung für alle Lebewesen. Bereits kleinste Fehlstellungen von Knochen, Gelenken, Bindegewebe, Muskeln und Hirnhäuten können zu Funktionsstörungen im Körper führen. Durch die Omnipathie® wird die Mobilität des Körpers wieder hergestellt, die Gefäßversorgung verbessert und die Selbstheilungskräfte aktiviert. Ziel ist es Traumen und Blockaden zu lösen und eine Entspannung auf energetischer, körperlicher und geistiger Ebene zu erlangen. Ob in meiner Praxis für dich – oder für dein Tier in vertrauter Umgebung bei euch zu Hause: Ich arbeite achtsam, ruhig und individuell abgestimmt auf die jeweiligen Bedürfnisse. Eine Sitzung ersetzt keine ärztliche Behandlung! ",
-    "header2": "ABLAUF einer SITZUNG",
-    "text2": "Nach einem kurzen Vorgespräch darfst du dich angezogen auf die Liege legen und entspannen und ich arbeite mit deinem Körper. Bei Babys und Kleinkindern, passen wir die Situation gegeben falls and und arbeiten auf dem Boden. Ich beginne bei den Füssen und stimme mich auf dein System ein, danach ist ein Teil am Kopf (Cranium) und von dort führt mich dein Körper bzw. das Thema, das du mitgebracht hast. Abschluss ist nach ca 50 Minuten (Erwachsene, Kinder entsprechend kürzer) wieder an den Füssen, damit du gut geerdet wieder aufstehen kannst. Nach einer kurzen Nachbesprechung und Klärung, ob eine Folgesitzung nötig ist, ist die heutige Sitzung zu Ende. WICHTIG: Nach der Behandlung sollst du viel Trinken und dir – wenn möglich noch Zeit zum Nachspüren gönnen! Schwere Körperliche Aktivitäten sollten die ersten 2 bis 3 Tage nach der Sitzung vermieden werden.",
-    "image": "images/massage.jpg"
+    "content": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Sanfte Impulse – tiefgreifende Wirkung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ich arbeite als Omnipathin®, einer Methode, die sich aus der Cranio-Sacralen Osteopathie entwickelt hat. Diese ganzheitliche, energetisch wirkende Behandlungsmethode unterstützt Körper, Geist und Seele dabei, in Einklang zu kommen. Sie ist für Menschen und Tiere gleichermaßen geeignet – individuell abgestimmt, achtsam und tief wirkend."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bereits kleinste Blockaden in Knochen, Gelenken, Bindegewebe oder Muskeln können zu Spannungen, Schmerzen und Funktionsstörungen führen. Durch gezielte, sanfte Impulse fördert die Omnipathie®:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "die Mobilität des Körpers",
+          "die Durchblutung und Versorgung der Gewebe",
+          "die Aktivierung der Selbstheilungskräfte"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Das Ziel ist es, Traumen, Verspannungen und alte Blockaden zu lösen – auf körperlicher, energetischer und emotionaler Ebene."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cranio-Sacrale Osteopathie für Menschen"
+      },
+      {
+        "type": "paragraph",
+        "text": "Für alle Altersklassen – vom Neugeborenen bis ins hohe Alter"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Anwendungsgebiete"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Cranio-Sacrale Körperarbeit kann unterstützend wirken bei:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "akuten oder chronischen Beschwerden des Bewegungsapparates",
+          "Stillproblemen & Geburtsverarbeitung bei Babys",
+          "Spannungen durch Zahnspangen (z. B. bei Jugendlichen)",
+          "körperlichen oder emotionalen Belastungen",
+          "Regeneration nach Unfällen, Operationen oder Krankheiten",
+          "Organthemen, die mit alten emotionalen Mustern in Verbindung stehen"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ablauf einer Sitzung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nach einem kurzen Gespräch darfst du – bequem bekleidet – auf der Liege entspannen. Ich arbeite achtsam mit deinem Körper, beginnend bei den Füßen, über das Cranium (den Kopf) bis hin zu den Bereichen, zu denen mich dein System führt. Bei Babys oder Kleinkindern erfolgt die Behandlung individuell angepasst – auf dem Boden, im Arm oder in Bewegung."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dauer: ca. 50 Minuten (Babys und Kinder kürzer)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abschluss mit Nachbesprechung und Empfehlungen"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hinweis: Nach der Behandlung solltest du viel trinken, dir Ruhe gönnen und in den nächsten 2–3 Tagen körperliche Anstrengung möglichst vermeiden."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Energieausgleich"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Erwachsene (ab 16 J., bis 90 Min.): 70 €",
+          "Kinder & Jugendliche (bis 75 Min.): 50 €",
+          "Babys (bis 60 Min.): 40 €"
+        ]
+      },
+      {
+        "type": "image",
+        "src": "images/massage.jpg"
+      },
+      {
+        "type": "button",
+        "text": "Erfahren Sie mehr"
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Hinweis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei Absagen am selben Tag ohne driftigen Grund, werden 50% des geplanten Termines verrechnet!"
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Rechtlicher Hinweis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Cranio-Sacrale Arbeit ersetzt keine schulmedizinische oder tierärztliche Behandlung, kann diese jedoch wertvoll ergänzen."
+      }
+    ]
   },
+
+
+
   {
     "id": 2,
-    "title": "Cranio-Sacrale Körperarbeit Tiere",
-    "text1": "Ich arbeite als Omnipathin®, welches eine aus der Cranio Sacralen Osteopathie entwickelt wurde und es ist es eine sanfte, energetisch-ganzheitliche Anwendung für alle Lebewesen. Bereits kleinste Fehlstellungen von Knochen, Gelenken, Bindegewebe, Muskeln und Hirnhäuten können zu Funktionsstörungen im Körper führen. Durch die Omnipathie® wird die Mobilität des Körpers wieder hergestellt, die Gefäßversorgung verbessert und die Selbstheilungskräfte aktiviert. Ziel ist es Traumen und Blockaden zu lösen und eine Entspannung auf energetischer, körperlicher und geistiger Ebene zu erlangen. Ob in meiner Praxis für dich – oder für dein Tier in vertrauter Umgebung bei euch zu Hause: Ich arbeite achtsam, ruhig und individuell abgestimmt auf die jeweiligen Bedürfnisse. Eine Sitzung ersetzt keine ärztliche Behandlung! ",
-    "header2": "",
-    "text2": "",
-    "image": "images/tier.jpg"
+    "content": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Sanfte Impulse – tiefgreifende Wirkung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ich arbeite als Omnipathin®, einer Methode, die sich aus der Cranio-Sacralen Osteopathie entwickelt hat. Diese ganzheitliche, energetisch wirkende Behandlungsmethode unterstützt Körper, Geist und Seele dabei, in Einklang zu kommen. Sie ist für Menschen und Tiere gleichermaßen geeignet – individuell abgestimmt, achtsam und tief wirkend."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bereits kleinste Blockaden in Knochen, Gelenken, Bindegewebe oder Muskeln können zu Spannungen, Schmerzen und Funktionsstörungen führen. Durch gezielte, sanfte Impulse fördert die Omnipathie®:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "die Mobilität des Körpers",
+          "die Durchblutung und Versorgung der Gewebe",
+          "die Aktivierung der Selbstheilungskräfte"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Das Ziel ist es, Traumen, Verspannungen und alte Blockaden zu lösen – auf körperlicher, energetischer und emotionaler Ebene."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cranio-Sacrale Osteopathie für Tiere"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pferde, Hunde, Katzen & Nutztiere – individuell & einfühlsam"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Anwendungsgebiete"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Cranio-Sacrale Begleitung bei Tieren unterstützt u.a. bei:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Rittigkeitsproblemen bei Pferden (Verspannungen, Traumata, Reiterwechsel)",
+          "Verdauungsstörungen und Stresssymptomen bei Hunden",
+          "chronischen Erkrankungen zur Stärkung des Immunsystems",
+          "Regeneration nach Operationen, Geburten oder Unfällen",
+          "allgemeinen Unruhe- oder Spannungszuständen"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ablauf einer Sitzung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nach einem kurzen Vorgespräch findet die Behandlung bei dir vor Ort statt – im Stall, Zuhause oder an einem vertrauten Ort für dein Tier. Die Sitzung erfolgt im Stehen oder Liegen – angepasst an Tierart und Situation. Nach der Behandlung gibt es eine kurze Nachbesprechung mit individuellen Empfehlungen."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dauer: 50–70 Minuten je nach Tier"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hinweis: Auch Tiere sollten nach der Sitzung 2–3 Tage Ruhezeit erhalten, damit die Behandlung optimal wirken kann."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Energieausgleich (inkl. Anfahrt bis 20 km)"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Pferd (bis 70 Min.): 80 €",
+          "Hund (bis 60 Min.): 60 €",
+          "Katze (bis 50 Min.): 50 €"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Weitere Anfahrt: Aufpreis nach Absprache oder amtliches Kilometergeld"
+      },
+      {
+        "type": "image",
+        "src": "images/massage.jpg"
+      },
+      {
+        "type": "button",
+        "text": "Erfahren Sie mehr"
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Hinweis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bei Absagen am selben Tag ohne driftigen Grund, werden 50% des geplanten Termines verrechnet!"
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Rechtlicher Hinweis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Cranio-Sacrale Arbeit ersetzt keine schulmedizinische oder tierärztliche Behandlung, kann diese jedoch wertvoll ergänzen."
+      }
+    ]
   },
+
+
+
   {
     "id": 3,
-    "title": "Kräuter,Öle und Hausmittel",
-    "text1": "Die Kraft der Natur bietet eine Vielzahl an Möglichkeiten, Körper und Seele sanft zu unterstützen. Ob beruhigende Kräuter, stärkende Hausmittel oder harmonisierende Kräuter zum Räuchern – je nach Thema und Bedürfnis stelle ich eine individuell abgestimmte Kombination zusammen. Im Mittelpunkt steht dabei immer der ganzheitliche Blick: Was tut dir (oder deinem Tier) gut? Welche Mittel passen zur aktuellen Situation? Gemeinsam finden wir eine natürliche, alltagstaugliche Lösung.",
-    "header2": "Ätherische Öle",
-    "text2": "Ätherische Öle können auf ganzheitlicher Ebene unterstützen – körperlich, emotional und energetisch. Doch welches Öl passt zu dir und deiner aktuellen Situation? Ich helfe dir dabei, das passende Öl zu finden und zeige dir einfache, sichere Anwendungsmöglichkeiten im Alltag. In meinen Webinaren kannst du tiefer eintauchen, die Wirkung der Öle besser verstehen und lernen, sie gezielt für dich und deine Familie einzusetzen. Du möchtest mehr erfahren oder direkt loslegen? Melde dich gern bei mir – ich freue mich auf dich!",
-    
-    "image": "images/energie.jpg"
+    "content": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Ganzheitliche Tiersprechstunde – Natürliche Hilfe für dein Tier"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Manchmal braucht es einfach ein Gespräch."
+      },
+      {
+        "type": "paragraph",
+        "text": "In der ganzheitlichen Tiersprechstunde nehmen wir uns Zeit für dich und dein Tier – mit fachlichem Blick, Erfahrung in Naturheilkunde und viel Einfühlungsvermögen. Gemeinsam finden wir individuelle und nachhaltige Wege zur Unterstützung deines Tieres."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Was ist eine ganzheitliche Tiersprechstunde?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die ganzheitliche Tiersprechstunde ist eine telefonische oder Online-Beratung, in der körperliche, emotionale und verhaltensbezogene Themen deines Tieres besprochen werden. Ziel ist es, eine passende, natürliche Begleitung zu finden – abgestimmt auf dein Tier, seinen Lebensraum und eure Beziehung."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mögliche Themen in der Tiersprechstunde:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Unterstützung bei chronischen Beschwerden (z.B. Verdauung, Haut, Immunsystem)",
+          "Begleitung bei Verhaltensauffälligkeiten oder Unsicherheiten",
+          "Auswahl geeigneter Kräuter, Homöopathie oder Bachblüten",
+          "Emotionale Begleitung in Veränderungsphasen (z. B. Umzug, neues Tier, Trauer)",
+          "Ganzheitlicher Blick auf bestehende Diagnosen oder Tierarztbefunde",
+          "Fragen zur Tier-Mensch-Beziehung und zum Verständnis von tierischem Verhalten",
+          "Beratung bei älteren oder schwer kranken Tieren"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "So läuft die Beratung ab:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Terminvereinbarung telefonisch oder per E-Mail",
+          "Gesprächsdauer: ca. 15–60 Minuten",
+          "Ort: telefonisch oder online via Zoom",
+          {
+          "type": "list",
+          "items": [
+            "Telefonat bis 20 Minuten: 20 Euro",
+            "Telefonat bis 60 Minuten (Einzeltermine zusammengezählt): 50 Euro",
+            "Telefonat, Recherche und weiterführende Unterstützung: nach Aufwand"
+          ]
+        }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Du schilderst dein Anliegen, und wir erarbeiten gemeinsam eine passende, naturbasierte Strategie für dein Tier. Du erhältst nach Wunsch auch Empfehlungen zu Mitteln oder weiterführenden Schritten."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Für wen ist die Tiersprechstunde geeignet?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Für Tierhalter:innen, die mehr über ihr Tier und dessen Bedürfnisse erfahren möchten",
+          "Für Menschen, die natürliche und sanfte Wege zur Tiergesundheit suchen",
+          "Als begleitende Beratung zu tierärztlichen Maßnahmen",
+          "Für alle, die in herausfordernden Situationen einfühlsame Unterstützung suchen"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dein Tier. Deine Intuition. Unser Gespräch."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ob Hund, Katze, Pferd oder Kleintier – jedes Tier ist einzigartig. In der Tiersprechstunde betrachten wir nicht nur Symptome, sondern auch das „Warum“ dahinter. Unser Ziel ist es, Tier und Mensch zu stärken – auf körperlicher wie auf seelischer Ebene."
+      },
+      {
+        "type": "button",
+        "text": "Kontakt & Buchung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ganzheitliche Tierberatung mit Herz, Verstand und Naturwissen."
+      }
+    ]
   },
-  {
-    "id": 5,
-    "title": "Esel Erlebniszeit",
-    "text1": "Achtsame Begegnung mit unseren zwei Langohren! In der Eselzeit darfst du zur Ruhe kommen, durchatmen und den Kontakt zu unseren beiden Eseln auf ganz natürliche Weise erleben. Bevor wir zu den Tieren gehen, bekommst du eine Einführung in den achtsamen Umgang mit Eseln – wie sie kommunizieren, was ihnen wichtig ist und wie du dich ihnen gegenüber respektvoll verhältst. Dann geht es zu den beiden Langohren – und wir gestalten die Zeit ganz individuell: Vielleicht möchtet ihr gemeinsam spazieren gehen, putzen, füttern, kuscheln, einfach im Stall sein, eine Selfie Session, Kunststücke üben oder beim Ausmisten mithelfen. Wir schauen gemeinsam, was dir guttut – und was die Esel gerade brauchen.",
-    "header2": "",
-    "text2": "",
-    "image": "images/kraeuter.jpg"
-  },
+
+
+
   {
     "id": 4,
-    "title": "Ganzheitliche Tiersprechstunde",
-    "text": "Pflanzen können so viel bewirken – wir finden gemeinsam die richtige Mischung.",
-    "image": "images/kraeuter.jpg"
+    "content": [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Eselzeit – Tiergestützte Interventionen mit Eseln für Kinder und Erwachsene"
+      },
+      {
+        "type": "paragraph",
+        "text": "Eselzeit ist ein achtsames Angebot für Kinder und Erwachsene, die in ruhiger Atmosphäre Zeit mit Tieren verbringen möchten. Die Einheiten fördern Wohlbefinden, Erdung und emotionale Balance – durch den direkten, respektvollen Kontakt mit Eseln."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Was ist Eselzeit?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Im Rahmen der tiergestützten Arbeit mit Eseln bieten wir strukturierte Begegnungen, bei denen Mensch und Tier in Beziehung treten – auf Augenhöhe und ohne Leistungsdruck. Die Esel begleiten die Teilnehmenden dabei mit ihrer ruhigen, klaren Präsenz."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Inhalte der Eselzeit:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Putzen und Pflegen der Esel",
+          "Kuscheln und achtsame Nähe",
+          "Eselfütterung und Stallarbeit",
+          "Spaziergänge in der Natur",
+          "Einfache Bodenarbeit und kleine Kunststücke",
+          "Reflexion und freies Spiel (bei Kindern)",
+          "Optional: kreative oder körperorientierte Elemente"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Für wen ist das Angebot geeignet?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Eselzeit richtet sich an:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Kinder ab 6 Jahren, die Tiere lieben und stärken wollen; unter 6 Jahren nur in Begleitung mit einem Erwachsenen",
+          "Erwachsene, die achtsame Naturerlebnisse und Entspannung suchen",
+          "Menschen, die Interesse an tiergestützten Interventionen oder alternativen Wegen zur Stressreduktion haben"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": " Wirkung & Ziel"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Stärkung von Selbstwert, Achtsamkeit & Vertrauen",
+          "Abbau von Stress & innerer Unruhe",
+          "Emotionale Stabilisierung durch tiergestützte Begegnung",
+          "Förderung von Verantwortung und Empathie"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": " Ort & Ablauf"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ein Termin wird vereinbart, wo geklärt wird wer kommt. Nach einer kurzen Einführung, wo wir das Verhalten bei den Tieren besprechen, und die Bedürfnisse des Tages evaluieren, geht es ab zu den Eseln in den Stall. "
+      },
+      {
+        "type": "paragraph",
+        "text": "Da wir meiste Zeit draußen sein werden, bitte dem Wetter entsprechende Kleidung, die staubig werden darf und in jedem Fall geschlossene feste Schuhe tragen. Bei Schlechtwetter wird entschieden, ob nur ein Teil stattfindet und/oder der zweite aktive Teil zu einem anderen Zeitpunkt stattfindet."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bitte im Sommer an Sonnenschutz und etwas zu trinken denken!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Eselzeit findet am Hof bei mir am Hof statt, in ruhiger ländlicher Umgebung."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Wertschätzungsbeitrag"
+      },
+      {
+        "type": "list",
+        "items": [
+          "90 Minuten Gruppe (maximal 3 Personen/Esel): Kinder 15 Euro, Erwachsene 25 Euro",
+          "60 Minuten ein Esel nur für dich: Kind 50 Euro, Erwachsener 70 Euro",
+          "Eselzeit exklusiv: Zwei Esel nur für dich – 100 Euro pro Stunde"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Buchung: nach Vereinbarung – auch als Wochenendangebot oder Ferienprogramm möglich."
+      },
+      {
+        "type": "button",
+        "text": "Kontakt & Buchung"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ganzheitliche Tierberatung mit Herz, Verstand und Naturwissen."
+      }
+    ]
   },
+
+
+
   {
-    "id": 7,
-    "title": "Webinar",
-    "text1":"",
-    "header2": "",
-    "text2":"",
-    "image": ""
+    "id": 5,
+    "content":  [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Natürliche Unterstützung mit Kräutern, Hausmitteln & ätherischen Ölen"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ganzheitliche Begleitung für Mensch & Tier"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Kraft der Natur bietet eine Vielzahl an Möglichkeiten, Körper, Geist und Seele auf sanfte Weise zu stärken. Ob beruhigende Kräuter, stärkende Hausmittel oder harmonisierende Pflanzen zum Räuchern – jede Anwendung wird individuell auf deine Bedürfnisse oder die deines Tieres abgestimmt."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Naturheilkundliche Unterstützung – individuell & achtsam"
+      },
+      {
+        "type": "paragraph",
+        "text": "Je nach Thema stelle ich eine ganzheitlich abgestimmte Kombination aus Kräutern, ätherischen Ölen und Hausmitteln zusammen. Im Fokus steht immer die Frage:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Was tut dir, deinem Kind (oder deinem Tier) wirklich gut?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Welche natürlichen Mittel passen zur aktuellen Lebenssituation oder gesundheitlichen Herausforderung? Gemeinsam finden wir eine naturnahe, alltagstaugliche Lösung, die Körper und Seele gleichermaßen anspricht."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": " Ätherische Öle – feine Helfer für Körper & Emotionen"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ätherische Öle wirken auf mehreren Ebenen: körperlich, emotional und energetisch. Ob zur Beruhigung, Stärkung oder Klärung – die passende Auswahl ist entscheidend. Ich helfe dir, das richtige Öl zu finden und zeige dir sichere, einfache Anwendungsmöglichkeiten für den Alltag – bei dir selbst oder in der Begleitung deines Tieres."
+      },
+      {
+        "type": "paragraph",
+        "text": "In meinen Webinaren und Workshops kannst du tiefer eintauchen, lernen, wie du ätherische Öle gezielt einsetzen kannst – für dich, deine Familie und deine Tiere."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Du möchtest mehr erfahren oder direkt loslegen?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dann melde dich gerne bei mir – ich freue mich auf dich!"
+      },
+      {
+        "type": "paragraph",
+        "text": ""
+      }
+    ]
   },
+
+
+
   {
     "id": 6,
-    "title": "Bachblüten",
-    "text1":"Die Bachblütentherapie ist eine sanfte, energetische Methode, die emotionale Ungleichgewichte harmonisieren kann. Sie basiert auf den Blütenessenzen von 38 wildwachsenden Pflanzen, die vom englischen Arzt Dr. Edward Bach entwickelt wurden. Jede Essenz steht für ein bestimmtes seelisches Thema – von innerer Unruhe über Unsicherheit bis hin zu Mutlosigkeit. Um die passenden Blüten für dich oder dein Tier zu finden, teste ich diese individuell aus – mit viel Feingefühl und Erfahrung. So entsteht eine persönliche Mischung, die dich gezielt auf deinem Weg begleiten und unterstützen kann.",
-    "header2": "",
-    "text2":"",
-    "image": "images/kraeuter.jpg"
+    "content":  [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Bachblütentherapie für Mensch & Tier"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sanfte Hilfe bei emotionalem Ungleichgewicht"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Bachblütentherapie ist eine feine, energetische Methode zur emotionalen Harmonisierung. Sie wurde vom englischen Arzt Dr. Edward Bach entwickelt und basiert auf den Essenzen von 38 wildwachsenden Pflanzen. Jede Blüte steht für ein bestimmtes seelisches Thema – etwa Angst, Unsicherheit, Überforderung, Trauer oder Mutlosigkeit."
+      },
+      {
+        "type": "paragraph",
+        "text": " Für Mensch und Tier geeignet"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ob bei innerer Unruhe, plötzlichen Veränderungen, Angstzuständen oder Verhaltensauffälligkeiten – Bachblüten können unterstützend wirken, Blockaden sanft lösen und die emotionale Balance wieder herstellen. Auch bei Tieren zeigen sie oft eine erstaunlich schnelle und feine Wirkung."
+      },
+      {
+        "type": "paragraph",
+        "text": "Individuelle Blütenmischung – mit Feingefühl getestet"
+      },
+      {
+        "type": "paragraph",
+        "text": "Um die passenden Bachblüten für dich oder dein Tier zu finden, teste ich jede Mischung individuell aus – mit viel Erfahrung und einem feinfühligen Blick auf das Gesamtsystem. So entsteht eine persönliche Kombination, die dich gezielt in deiner aktuellen Lebenssituation begleiten kann."
+      },
+      {
+        "type": "heading",
+        "level": 5,
+        "text": "Hinweis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Bachblütentherapie ist eine energetische Anwendung und ersetzt keine medizinische oder psychotherapeutische Behandlung."
+      }
+    ]
   },
+
+
+
   {
-    "id": 8,
-    "title": "Wissen - kompakt und praxisnah",
-    "text1": "Ob es um Bachblüten, Kräuter, ätherische Öle, Hausmittel, Cranio-Sacrale Osteopathie / Omnipathie®, die ganzheitliche Tiersprechstunde oder unsere Eselzeit geht – all diese Themen verbindet eines: ein achtsamer, ganzheitlicher Blick auf Menschen, Tier und Natur. Damit du dieses Wissen auch für dich selbst oder dein Tier nutzen kannst, wird es künftig regelmäßig Webinare, Vorträge und Kurse geben. Praxisnah, leicht verständlich und mit viel Raum für deine Fragen. Alle aktuellen Termine und Informationen findest du dann unter Aktuelles. Schau gerne regelmäßig vorbei – ich freue mich auf dich!",
-    "header2": "",
-    "text2":"",
-    "image": "images/kraeuter.jpg"
+    "id": 7,
+    "content":  [
+      {
+        "type": "heading",
+        "level": 1,
+        "text": "Ganzheitliches Wissen für Mensch, Tier & Natur"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ob es um Bachblüten, Heilkräuter, ätherische Öle, bewährte Hausmittel, die Cranio-Sacrale Osteopathie / Omnipathie®, unsere ganzheitliche Tiersprechstunde oder die erlebnisreiche Eselzeit geht – all diese Themen vereint ein Ziel:"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ein achtsamer, ganzheitlicher Blick auf das Zusammenspiel von Mensch, Tier und Natur."
+      },
+      {
+        "type": "paragraph",
+        "text": "Damit du dieses Wissen für dich und dein Tier im Alltag nutzen kannst, wird es künftig regelmäßig Webinare, Online-Vorträge, Workshops und Kurse geben."
+      },
+      {
+        "type": "paragraph",
+        "text": "Was dich erwartet:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Praxisnahes Wissen rund um ganzheitliche Tier- und Menschenbegleitung",
+          "Leicht verständlich erklärt – auch ohne Vorkenntnisse",
+          "Mit viel Raum für deine persönlichen Fragen",
+          "Themen: Naturheilkunde für Tiere, Hausmittel, Anwendung ätherischer Öle, emotionale Balance mit Bachblüten, Körperarbeit & mehr"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 5, 
+        "text": "Schau gerne regelmäßig vorbei oder melde dich für den Newsletter an, um nichts zu verpassen. Ich freue mich auf dich!"
+      }
+    ]
   }
 ]
+
