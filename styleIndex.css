@@ -248,9 +248,16 @@
 }
 .detail-box ul {
     margin: 1vh 0 1vh 2vw;
-    
 }
-
+.detail-box button {
+    padding: 1.2vh 2vw;
+    margin: 1vh 0 2vh 1vw;
+    border-radius: 1vh;
+    border: 0;
+    background: linear-gradient(210deg, rgba(203, 118, 131, 1) 0%, rgba(134, 36, 97, 1) 100%);
+    color: white;
+    font-size: 1rem;
+}
 
 .newsletter-form {
   display: flex;
