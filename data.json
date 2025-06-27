@@ -91,10 +91,6 @@
         ]
       },
       {
-        "type": "image",
-        "src": "images/massage.jpg"
-      },
-      {
         "type": "button",
         "text": "Erfahren Sie mehr"
       },
@@ -210,10 +206,6 @@
       {
         "type": "paragraph",
         "text": "Weitere Anfahrt: Aufpreis nach Absprache oder amtliches Kilometergeld"
-      },
-      {
-        "type": "image",
-        "src": "images/massage.jpg"
       },
       {
         "type": "button",
