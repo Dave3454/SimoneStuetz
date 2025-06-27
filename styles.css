@@ -90,12 +90,15 @@ nav {
 
 .logo {
     height: 10vh;
+    width: 12vw;
     position: fixed;
     top: 1vh;
     left: 1vw;
 }
 .logo img {
     height: 100%;
+    width: 100%;
+    object-fit: contain;
 }
 
 #nav-links {
