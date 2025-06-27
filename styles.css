@@ -89,14 +89,17 @@ nav {
 }
 
 #logo {
-    height: 10vh;
+    height: 12vh;
+    width: 12vw;
     position: fixed;
     top: 1vh;
     left: 1vw;
+    background-image: url(images/logo1.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
-#logo img {
-    height: 100%;
-}
+
 
 #nav-links {
     width: 50%;
