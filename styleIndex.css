@@ -210,7 +210,9 @@
     font-weight: 300;
     font-style: italic;
 }
-
+.item.active-item {
+  background-color: #7C2A5E;
+}
 .grid-container > .item:nth-child(-n+4) {
   grid-row: 1;
 }
@@ -230,16 +232,25 @@
   padding: 0;
   box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.1);
 }
-
 .detail-box.active {
   height: 100%;
   padding: 2vh 2vw;
   border-radius: 3vh;
 }
-
-.item.active-item {
-  background-color: #7C2A5E;
+.detail-box h1 {
+    margin: 1vh 0 2vh 0;
 }
+.detail-box h2 {
+    margin: 4vh 0 2vh 0;
+}
+.detail-box p {
+    margin: 1vh 0;
+}
+.detail-box ul {
+    margin: 1vh 0 1vh 2vw;
+    
+}
+
 
 .newsletter-form {
   display: flex;
