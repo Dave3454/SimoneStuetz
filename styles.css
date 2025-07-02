@@ -89,16 +89,13 @@ nav {
 }
 
 .logo {
-    height: 16vh;
-    width: 16vw;
+    height: 10vh;
     position: fixed;
     top: 1vh;
     left: 1vw;
 }
 .logo img {
     height: 100%;
-    width: 100%;
-    object-fit: contain;
 }
 
 #nav-links {
